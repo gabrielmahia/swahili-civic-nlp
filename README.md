@@ -23,7 +23,7 @@ NLP resources for Swahili civic language, including:
 
 The dataset is published on HuggingFace:
 - **[gmahia/swahili-civic-nlp](https://huggingface.co/datasets/gmahia/swahili-civic-nlp)**
-- 61 downloads and growing
+- Available on HuggingFace and PyPI
 - License: CC BY 4.0
 
 ## Why Swahili NLP Matters
