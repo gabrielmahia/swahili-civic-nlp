@@ -6,6 +6,30 @@
 
 **Swahili civic NLP datasets and tools for East Africa AI coordination infrastructure.**
 
+
+## The Data Gap This Addresses
+
+**AfricaNLP 2025/2026 findings:**
+- Only **4 African languages** receive consistent NLP research attention: Amharic,
+  Swahili, Afrikaans, Malagasy
+- **98%+ of African languages** have no meaningful AI coverage (Hussen et al., 2026,
+  arXiv:2506.02280)
+- Swahili is one of the 4 supported — but civic and legal Swahili is severely
+  underrepresented even within Swahili NLP corpora
+- AfricaNLP 2025 identifies healthcare, civic, and legal as the domains with the
+  most critical accuracy and trust requirements — and the most data gaps
+
+**What this dataset provides:**
+Constitutional rights, government service descriptions, M-PESA terms, and
+civic process explanations in Swahili — the domain-specific civic language
+that general Swahili corpora do not cover.
+
+**Why it matters:**
+AI systems deployed in civic contexts (rights information, service navigation,
+accountability) that hallucinate or mistranslate cause measurable harm. Domain-
+specific grounding in verified civic Swahili is a prerequisite for safe deployment.
+
+
 Part of the [AI-KungFU Nairobi Stack](https://github.com/gabrielmahia/nairobi-stack) —
 the largest open-source MCP coordination infrastructure for the Global South.
 
