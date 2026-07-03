@@ -23,8 +23,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -e ".[dev]" 2>/dev/null || pip install -e . 2>/dev/null || pip install .
-          pip install pytest ruff
+          pip install pytest ruff  # dataset companion repo — no installable package
 
       - name: Lint (ruff)
         run: ruff check . --ignore E501 || true
